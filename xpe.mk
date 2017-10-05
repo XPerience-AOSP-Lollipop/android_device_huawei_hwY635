@@ -21,10 +21,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/huawei/hwY635/device.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/XPe/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := hwY635
-PRODUCT_NAME := lineage_hwY635
+PRODUCT_NAME := xpe_hwY635
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := hwY635
 PRODUCT_MANUFACTURER := HUAWEI

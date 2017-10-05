@@ -1,0 +1,24 @@
+[
+  {
+    "remote": "github",
+    "repository": "CarlosArriagaCM/android_kernel_huawei_hwY635",
+    "target_path": "kernel/huawei/hwY635",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+    "branch": "cm-14.1"
+  },
+    {
+    "remote": "github",
+    "repository": "CarlosArriagaCM/proprietary_vendor_huawei",
+    "target_path": "vendor/huawei",
+    "branch": "cm-14.1"
+  }
+]
